@@ -9,7 +9,7 @@
 
 Lets first create our storage account and a file share which we'll name `fileshare1`. So, search for storage account in the search bar. 
 
-![Image](AzureFileSnapshots1.png)
+![Image](AzureSAS1.png)
 
 
 
@@ -17,7 +17,7 @@ Lets first create our storage account and a file share which we'll name `filesha
 
 For the second portion of this lab, we need to connection our file share to the virtual machine (VM) in our resource group (RG). So, find the pre-configured VM named `winVM`. 
 
-![Image](AzureFileSnapshots6.png)
+![Image](AzureSAS11.png)
 
  
 
